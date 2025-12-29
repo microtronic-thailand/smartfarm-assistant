@@ -1,0 +1,77 @@
+# Smart Farm IoT Platform Setup
+
+- [x] Clone Repository (In `micro-iot-platform`) <!-- id: 1 -->
+- [x] Install Dependencies (Completed) <!-- id: 3 -->
+- [x] Apply Glassmorphism Styles (Completed) <!-- id: 4 -->
+    - [x] Configure Tailwind for Glass UI <!-- id: 5 -->
+    - [x] Update Global Styles (Fixed Tailwind v4 syntax) <!-- id: 6 -->
+- [x] Refactor UX & Performance <!-- id: 15 -->
+    - [x] Optimize Glass Blur (Fallback) <!-- id: 16 -->
+    - [x] Improve Text Contrast (Checked default theme) <!-- id: 17 -->
+    - [x] Create Status Badge Component (RSSI) <!-- id: 18 -->
+- [x] Setup Environment <!-- id: 19 -->
+    - [x] Create .env.local.example <!-- id: 20 -->
+    - [x] Update .env for Supabase <!-- id: 24 -->
+- [x] Update Documentation <!-- id: 7 -->
+    - [x] Add Strategy & Vision <!-- id: 8 -->
+    - [x] Update Architecture (Switch to Supabase) <!-- id: 9 -->
+    - [x] Add Auth & Multi-tenancy Architecture <!-- id: 25 -->
+    - [x] Add Admin Console details <!-- id: 26 -->
+    - [x] Add Hardware Setup & API Ref <!-- id: 21 -->
+    - [x] Add Board Compatibility List <!-- id: 23 -->
+    - [x] Add Troubleshooting <!-- id: 22 -->
+    - [x] Setup Dynamic MDX for Modules (Completed) <!-- id: 30 -->
+        - [x] Create MDX Utility & Page <!-- id: 32 -->
+        - [x] Create Custom Video Component (Horizontal/Vertical) <!-- id: 33 -->
+        - [x] Create Sample Content <!-- id: 34 -->
+    - [x] Add LINE OA Integration Guide <!-- id: 35 -->
+- [x] Review README.md (License & Contribution) (Completed) <!-- id: 11 -->
+- [x] Design Auth & Admin System <!-- id: 27 -->
+    - [x] Define RBAC (User vs Admin) <!-- id: 28 -->
+    - [x] Plan Admin Console Features <!-- id: 29 -->
+    - [x] Create Supabase SQL Schema (Completed) <!-- id: 31 -->
+- [x] Design Database Schema (Completed) <!-- id: 13 -->
+- [x] Draft Connection Library (Completed) <!-- id: 14 -->
+- [x] Create EMQX Installation Guide (Completed) <!-- id: 36 -->
+- [x] Create STM32 Getting Started Guide (Completed) <!-- id: 37 -->
+- [x] Create Power Solutions Guide (Solar/Wind) (Completed) <!-- id: 38 -->
+- [x] Create Water Management Guide (Completed) <!-- id: 39 -->
+- [x] Create AI Crop Analysis Guide (Completed) <!-- id: 40 -->
+- [x] Create Communication Protocol (Completed) <!-- id: 41 -->
+- [x] Create Hardware Library (Arduino) (Completed) <!-- id: 42 -->
+- [x] Create Telemetry API (Completed) <!-- id: 43 -->
+- [x] Create Real-time Dashboard (Completed) <!-- id: 44 -->
+- [x] Create Standard Design System (Completed) <!-- id: 45 -->
+- [x] Create Complete Sensor Library (Completed) <!-- id: 46 -->
+- [x] Create Library License & Documentation (Completed) <!-- id: 47 -->
+- [x] Define Project Structure (Multi-repo) (Completed) <!-- id: 48 -->
+- [x] Setup MkDocs Documentation (smartfarm-docs) (Completed) <!-- id: 49 -->
+- [x] Separate Hardware Library Repository (smartfarm-iot-library) <!-- id: 50 -->
+- [x] Setup Mobile App (Basic) - React Native (smartfarm-mobile-basic) <!-- id: 51 -->
+- [x] Setup Mobile App (Premium) - Flutter (smartfarm-mobile-premium) <!-- id: 52 -->
+- [x] Implement Smart Home & Urban Farming Page <!-- id: 53 -->
+- [x] Design Hybrid Cloud-Local Strategy (Monetization) <!-- id: 54 -->
+- [x] Implement Edge Hub Failover in Library <!-- id: 55 -->
+- [x] Create Standardized Hardware Examples (Environment, Water, Power) <!-- id: 56 -->
+- [x] Premium Dashboard UI Overhaul (Sidebar, Charts, Real-time) <!-- id: 57 -->
+- [x] Multi-Theme System Support (Nature, Cyberpunk, Minimal) <!-- id: 58 -->
+- [x] Marketplace Page for Templates & Extensions <!-- id: 59 -->
+- [x] Extension/Addon Installation Mock-up <!-- id: 60 -->
+- [x] Multi-Language Support (TH/EN) for Dashboard <!-- id: 61 -->
+- [x] Comprehensive User Manual (TH/EN) in MkDocs <!-- id: 62 -->
+- [x] Separate Code Examples into Multi-Repo Structure <!-- id: 63 -->
+- [x] Edge Hub Setup Guide (Local Installation) <!-- id: 64 -->
+- [x] Detailed Admin & Technical Reference Manual <!-- id: 65 -->
+- [x] One-Click Edge Hub Installation Script (.sh) <!-- id: 66 -->
+- [x] Backup & Disaster Recovery Plan for Edge Hub <!-- id: 67 -->
+- [x] Themes & Extensions Development Guide <!-- id: 68 -->
+- [x] Marketplace Import Procedure for Admins <!-- id: 69 -->
+- [x] Database Schema Update for Marketplace (SQL) <!-- id: 70 -->
+- [x] Premium Theme Template (Midnight OLED) <!-- id: 71 -->
+- [x] Premium AI Extension Template (Crop Health) <!-- id: 72 -->
+- [x] Mobile App Strategy & Documentation <!-- id: 73 -->
+- [x] Basic Mobile App (React Native) - Initial Dashboard <!-- id: 74 -->
+- [x] Premium Mobile App (Flutter) - High-End Dashboard <!-- id: 75 -->
+- [x] Real-time MQTT Connectivity for Mobile (Basic & Premium) <!-- id: 76 -->
+- [x] Device Management Screen (Add/List/Remove) in Mobile Apps <!-- id: 77 -->
+- [ ] Verify Build (Checking...) <!-- id: 12 -->
